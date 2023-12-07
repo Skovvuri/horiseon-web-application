@@ -3,7 +3,7 @@ Code base for horiseon-web-application used by a marketing agency.
 ![horiseon-repo](https://img.shields.io/github/languages/top/skovvuri/horiseon-web-application)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Skovvurie&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Skovvuri&show_icons=true)
 
 
 ## Table of Contents
